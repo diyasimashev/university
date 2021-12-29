@@ -1,0 +1,16 @@
+Hello, dear user! We are glad to greeting you in our program!
+
+Before you start using it, we would like to clarify a few points that you will encounter when 
+using it to make it easier for you to use it.
+
+1. In order to reduce the number of actions performed by the user, we have reduced the data that you 
+will enter while using the program to perform certain actions. For example, in order to go to the menu 
+that you need, you will have to enter its number written next to it. The same method we used for the 
+name of the action that you want the computer to perform: in this case,you will have to enter the first
+letter of the name of this action.
+
+2. In addition, we would like to advise you not to rush and enter valid data so as not to slow down the 
+process of obtaining the information you need and save your time.
+
+Thanks, for your attention! We hope that this information was useful for you and will make it easier 
+for you to use the program.
